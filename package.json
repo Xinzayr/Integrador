@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@auth/core": "^0.35.0",
+    "@auth/core": "^0.37.4",
     "axios": "^1.7.7",
     "chart.js": "^4.4.4",
     "integrador-musk": "file:",
     "next": "14.2.13",
-    "next-auth": "^4.24.7",
+    "next-auth": "^4.24.11",
     "react": "^18",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18"
